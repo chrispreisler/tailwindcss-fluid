@@ -155,3 +155,4 @@ This configuration will produce **three** `font-size` utility classes: `text-sm`
 
 * [Responsive And Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 * [Flexible typography with CSS locks](https://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
+# tailwindcss-fluid-type
